@@ -1,0 +1,15 @@
+
+ 
+    #app{
+        display: grid;
+        place-content: "center";
+        
+         
+        /* background-color: #202020; */
+        /* height: 100%;
+        width: 900px; */
+        padding: 10%;
+        padding-left: 20%;
+    
+    }
+    

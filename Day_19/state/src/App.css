@@ -1,0 +1,12 @@
+
+.para{
+    text-align: center;
+}
+Button{
+    color:blue;
+    padding: 10px;
+    box-sizing: content-box;
+    margin: auto;
+    font-size: large;
+    
+}

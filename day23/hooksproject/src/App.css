@@ -1,0 +1,20 @@
+div{
+  justify-self: center;
+  margin: 190px ;
+}
+p{
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: bold;
+  border: 2px solid black;
+  height: 30px;
+  width: 240px;
+  
+}
+button{
+  width: 240px;
+  height: 60px;
+  background-color: cornflowerblue;
+  color: white;
+}
+

@@ -1,0 +1,28 @@
+[{
+    "id":0,
+
+    "food":"Burger",
+    "calorie":69
+},
+{
+"id":1,
+
+"food":"Coke",
+"calorie":500
+},
+{
+"id":2,
+
+"food":"Brownie",
+"calorie":200
+},
+{  "id":3,
+
+    "food":"ALLU bhat",
+    "calorie":568
+},
+{"id":4,
+
+"food":"Bara",
+"calorie":567
+}]

@@ -1,0 +1,52 @@
+.primary{
+  background-color: aqua;
+}
+form{
+  text-align: center;
+  padding: 20px;
+}
+#title{
+  padding: 5px;
+  width: 40%;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  width: 90%}
+  #number{
+    padding: 5px;
+    width: 40%;
+  }
+  .primary{
+background-color:blue;
+color: white;
+    padding: 8px;
+    width: 41.5%;
+    margin-left: 320px; 
+  }
+
+.danger{
+  background-color: #DC3545;
+  color: white;
+  padding: 6px 12px;
+}
+  .editingdelete{
+    background-color: blue;
+    padding: 6px 12px;
+    color: white;
+  
+  
+
+  }
+
+  .text{
+    text-align: center;
+  }
+.cardbox{
+  border: 2px solid black;
+  margin: 10px 0px;
+
+  margin: auto;
+  
+  
+} 

@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5%;
+}
+
+.container {
+    display: flex;
+    margin-top: 30px;
+    border: 8.6px solid rgb(223, 131, 131);
+    margin-right: 5%;
+    margin-bottom: 2%;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+}
+
+div.box {
+    border: 2px solid rgb(241, 113, 113);
+    width: 200px;
+    height: 75px;
+    background-color: rgb(179, 37, 37);
+    cursor: pointer;
+}
+
+table {
+    margin-top: 20px;
+    margin-left: 30%;
+    border: 2px solid brown;
+}
+
+td {
+    padding-right: 20px;
+    font-size: xx-large;
+    font-family: Impact, sans-serif;
+}
+
+div.booked {
+    background-color: burlywood;
+}

@@ -1,0 +1,14 @@
+.tab{
+    border-style: solid;
+    tab-size: 8;
+    text-indent: 10px;
+    width: 80%;
+    height: 750px;
+    padding: 20px;
+    word-spacing: 5px;
+}
+table, th, td {
+    border: 1px solid black;
+    width: 50%;
+    text-align: center;
+}

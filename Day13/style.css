@@ -1,0 +1,38 @@
+body {
+    background-image: url("https://img.republicworld.com/republic-prod/stories/images/16008700015f6b5671dd1a4.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.quoteData{
+    padding: 0px 100px;
+}
+
+#myData{
+    color: #000 !important;
+    text-align: center;
+    font-size: 80px;
+    font-family: "vesper Libre", serif;
+}
+
+i{
+    color: gray;
+    font-size: 100px;
+}
+
+
+#author{
+    text-align: left;
+    font-size: 40px;
+    font-weight: bold;
+    
+
+}
+h1{
+    text-align: center;
+    color: #000;
+    font-size: 50px;
+    
+
+}
